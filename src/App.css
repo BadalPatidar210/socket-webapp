@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.table-header{
+  position: sticky;
+  top:0;
+  background-color: antiquewhite;
+}
+
+.table-header thead tr td{
+  color: white;
+}
+
+h1{
+  color: brown;
+  text-align: center;
+}

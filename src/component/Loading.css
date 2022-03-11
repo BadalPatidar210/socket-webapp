@@ -1,0 +1,12 @@
+.loading{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-50%);
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
+.loading img{
+    width: 50px;
+}
